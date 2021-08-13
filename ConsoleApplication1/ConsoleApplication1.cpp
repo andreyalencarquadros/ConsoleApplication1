@@ -1,12 +1,16 @@
 // ConsoleApplication1.cpp : Este arquivo contém a função 'main'. A execução do programa começa e termina ali.
 //
-//Bora testar o versionamento
+//Bora testar o versionamento 2
+// Versão 1.1   
+
 
 #include <iostream>
+#include <activation.h>
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Hello World 2!\n";
+
 }
 
 // Executar programa: Ctrl + F5 ou Menu Depurar > Iniciar Sem Depuração
